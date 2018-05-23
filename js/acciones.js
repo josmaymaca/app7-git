@@ -14,7 +14,7 @@ $(document).ready(function (e) {
 					navigator.notification.beep(1);
 					break;
 					
-					case2:
+					case 2:
 					navigator.notification.vibrate(1000);
 					break;
 				}
